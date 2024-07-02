@@ -1,0 +1,19 @@
+{
+    "name": "mimi/labhello",
+    "description": "membuat library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hidayatul Ummi",
+            "email": "hidayatulummi82@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "mimi\\labhello\\": "src/"
+        }
+    },
+    "require": {}
+}
